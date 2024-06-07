@@ -1,0 +1,18 @@
+{
+    "eBay": {
+      "access_token": "MY ACCESS_TOKEN",
+      "refresh_token": "MY REFRESH_TOKEN",
+      "refresh_token_expires_at": "TIME THAT REFRESH_TOKEN EXPIRES (EG Sat Apr 26 01:00:00 2025)",
+      "charity_id": "MY CHARITY_ID AS INT (OPTIONAL)",
+      "user_id": "MY USER_ID",
+      "client_ID": "MY CLIENT_ID",
+      "dev_ID": "MY DEV_ID",
+      "client_secret": "MY CLIENT_SECRET",
+      "ru_name": "MY RU_NAME",
+      "sign_in_URL": "MY SIGN_IN_URL",
+      "expires_at": "TIME THAT ACCESS_TOKEN EXPIRES (EG Sat Apr 6 01:00:00 2024)"
+  }
+}
+
+
+  

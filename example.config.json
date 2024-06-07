@@ -1,0 +1,31 @@
+{
+    "Area 1": [
+      {
+        "current_value": "0",
+        "end_date": "01/29/2024",
+        "name": "example goal 1",
+        "reminder_text": "Weekly on Monday",
+        "start_date": "01/24/2024",
+        "target_value": "23"
+      }
+    ],
+    "Area 2": [
+      {
+        "current_value": "0",
+        "end_date": "12/08/2023",
+        "name": "Area 2 GOAL1",
+        "reminder_text": "Weekly on Tuesday",
+        "start_date": "12/08/2023",
+        "target_value": "$100"
+      },
+      {
+        "current_value": "0",
+        "end_date": "12/13/2023",
+        "name": "Area 2 Goal2",
+        "reminder_text": "Monthly on 12th",
+        "start_date": "12/08/2023",
+        "target_value": "8"
+      }
+    ]
+  }
+  
